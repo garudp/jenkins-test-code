@@ -12,7 +12,7 @@ public class hellotest {
 
     @Test
     public void testWillAlwaysFail() {
-        fail("This is An Error for testing git & jenkins pipeline");
+        fail("This is An Error for demo-testing git & jenkins pipeline");
     }
 
 
